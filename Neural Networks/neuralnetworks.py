@@ -2,7 +2,10 @@
 import numpy as np #linear algebra
 """
 Our goal in training is to find the best set of weights
-and biases that minimizes the loss function
+and biases that minimizes the loss function. 
+
+We will compare our outcome array [expected value] (line 57) 
+with out 'y' array [actual value] that we have stored through numpy. (line 51)
 
 """
 
